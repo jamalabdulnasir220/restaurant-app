@@ -60,7 +60,7 @@
 }
 
 .app__navbar-smallscreen {
-    /* display: none; */
+    display: none;
     cursor: pointer;
 }
 
